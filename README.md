@@ -45,9 +45,8 @@ VITE_GEMINI_API_KEY=your_api_key_here
 
 ## Running the Development Server 🚀
 ```bash
-npm run dev
+npm start
 ```
-Open your browser and visit `http://localhost:5173/` to use the chatbot.
 
 ---
 
